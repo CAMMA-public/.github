@@ -1,13 +1,8 @@
-# Welcome to CAMMA (Computational Analysis and Modeling of Medical Activities) github page :wave:
-
 <div align="center">
 <a href="http://camma.u-strasbg.fr/">
 <img src="https://github.com/CAMMA-public/.github/blob/main/camma.gif" width="90%">
 </a>
 </div>
-
-
-
 <div align="center">
 <a href="http://camma.u-strasbg.fr/">Website</a> | <a href="https://www.youtube.com/@icubecamma9103">YouTube</a> | <a href="https://twitter.com/cammalab">Twitter</a>
 </div>
