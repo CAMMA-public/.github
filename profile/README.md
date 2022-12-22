@@ -4,7 +4,7 @@ Computational Analysis and Modeling of Medical Activities research group develop
 
 <div align="center">
 <a href="http://camma.u-strasbg.fr/">
-<img src="https://github.com/CAMMA-public/.github/blob/main/camma.gif" width="150%">
+<img src="https://github.com/CAMMA-public/.github/blob/main/camma.gif" width="100%">
 </a>
 </div>
 
