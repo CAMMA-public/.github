@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="http://camma.u-strasbg.fr/">
-<img src="https://github.com/CAMMA-public/.github/blob/main/camma.gif" width="80%">
+<img src="https://github.com/CAMMA-public/.github/blob/main/camma.gif" width="90%">
 </a>
 </div>
 
